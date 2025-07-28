@@ -30,8 +30,7 @@ A web application for analyzing seasonal patterns in cryptocurrency markets usin
 - **WebSocket Client**: Custom `UnifiedBinanceClient` for Binance API integration
 - **Animations**: Framer Motion
 - **Theming**: Next Themes
-- **Fonts**: Inter (via Next.js Font)
-- **Other Libraries**: react-swipeable, lucide-react
+- **Other Libraries**: react-swipeable, lucide-react, recharts, use-debounce
 
 ## Setup Instructions
 1. **Clone the Repository**
