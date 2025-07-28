@@ -100,7 +100,7 @@ export default function PerformancePage() {
 
   return (
     <motion.div 
-      className="container mx-auto p-4 max-w-7xl"
+      className="container mx-auto p-4 max-w-full font-text"
       variants={containerVariants}
       initial="hidden"
       animate="visible"
@@ -123,7 +123,7 @@ export default function PerformancePage() {
       </AnimatePresence>
 
       <motion.div 
-        className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4 mb-4"
+        className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4 mb-20"
         variants={itemVariants}
       >
         <div className="flex flex-wrap gap-2">
