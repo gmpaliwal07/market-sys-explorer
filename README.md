@@ -46,6 +46,6 @@ A web application for analyzing seasonal patterns in cryptocurrency markets usin
 ```bash
 NEXT_PUBLIC_API_URL=https://api.binance.com/api/v3
 NEXT_PUBLIC_WS_STREAM_URL=wss://stream.binance.com:9443/stream
-
+```
 4. ```bash
 npm run dev
